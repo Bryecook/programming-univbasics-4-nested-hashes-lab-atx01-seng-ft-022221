@@ -86,6 +86,7 @@ programmer_hash={
     :known_for => "Ruby",
     :languages => ["Lisp", "C"]
   }
+}
 end
 
 def changing_alan
